@@ -1,0 +1,21 @@
+body {
+  background-image: url("C:\\Users\\Rinkesh Goyal\\Desktop\\the_odin_project\\Popeye-Olive\\Assets\\BG.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#image {
+  height: 180px;
+}
+
+header {
+  background-color: orange;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 5px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0 25px 0 black;
+}
